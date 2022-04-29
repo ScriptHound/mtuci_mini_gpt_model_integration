@@ -1,0 +1,1 @@
+The origin model was made here - https://keras.io/examples/generative/text_generation_with_miniature_gpt/
